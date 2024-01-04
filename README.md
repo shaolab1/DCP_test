@@ -1,11 +1,12 @@
 # DCP_test
 This is just a test
 # new content
-Place for descriptions 
+Place for descriptions
+
 end
 additinoal information
 Overview: This is the result of a Positron Emission Tomography (PET) technology research project. The following are the highlights of the technology development and evaluation. 
--	Motivation
+-	Motivation 
 -	Objective
 -	Scope 
 o	What it can do
