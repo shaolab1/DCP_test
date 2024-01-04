@@ -17,4 +17,4 @@ o
 -	(Link to NIH website?)
 -	Acknowledgment: supported by the NIH funding R03xxxxxx, 
 
-Word document: (Test2/DCP test only.docx)
+[Word document] (Test2/DCP test only.docx)
