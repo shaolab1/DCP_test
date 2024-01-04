@@ -20,4 +20,4 @@ o
 # [Test2/DCP test only.docx] (Test2/DCP test only.docx)
 
 [Test2/DCP test only.docx](DCP-test/Test2/DCP test only.docx)
-[DCP-test/Test2/DCP test only.docx](DCP-test/Test2/DCP test only.docx)
+[DCP-test/Test2/DCP test only.docx](https://github.com/shaolab1/DCP_test/blob/main/Test2/DCP%20test%20only.docx)
